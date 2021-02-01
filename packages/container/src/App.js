@@ -6,6 +6,7 @@ import Header from './Header'
 import MarketingApp from './components/MarketingApp'
 
 export default () => {
+  console.log('Hello')
   return (
     <div>
       <StylesProvider>
